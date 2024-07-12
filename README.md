@@ -5,8 +5,7 @@
 I am a dedicated B.Tech student majoring in Information Technology at Delhi Technological University (formerly DCE). I am a proactive student with a passion for learning, possessing demonstrated expertise in implementing robust Data Structures and Algorithms (DSA) solutions. 
 
 
-Proficient in C++ programming, front-end development, and database management, with strong communication skills to effectively convey complex technical concepts. 
-Actively seeking opportunities to leverage my analytical skills. Eager to contribute as a software developer, my passion drives me to create efficient and innovative solutions, making a meaningful impact in the field.
+Proficient in C++ programming, and full-stack development with strong communication skills to effectively convey complex technical concepts. Actively seeking opportunities to leverage my analytical skills. Eager to contribute as a software developer, my passion drives me to create efficient and innovative solutions, making a meaningful impact in the field.
 
 <h2>Programming Languages I know</h2>
 <div>
