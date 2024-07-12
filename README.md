@@ -21,11 +21,11 @@ Actively seeking opportunities to leverage my analytical skills. Eager to contri
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50px">
 <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" width="50px">
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png?f=webp" width="50px">
-<img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" width="50px">
 </div>
 <br>
 <h2>Databases I know</h2>
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MySQL_textlogo.svg/2560px-MySQL_textlogo.svg.png" width="70px">
 <img src="https://i.pinimg.com/736x/ba/87/c6/ba87c66f5834bda10538d6750abf50d9.jpg" width="100px">
+<img src="https://ashnik.com/wp-content/uploads/2021/02/Postgresql-w.png" width="100px">
 </div>
